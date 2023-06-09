@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Khansakura/Khansakura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Khan-Chou
+👋 Hi, I'm Khan Chou @khansakura  
+🏫 I'm studying at Zhejiang University  
+⭐️ I’m interested in CV, robotics and ...  
+📚 I’m currently learning PLC and control science    
+😜 Reach me by email -> zkh20020429@gmail.com  
+
+
