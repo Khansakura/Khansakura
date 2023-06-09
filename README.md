@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 👋 Hi, I'm Khan Chou @khansakura  
 🏫 I'm studying at Zhejiang University  
 ⭐️ I’m interested in CV, robotics and ...  
-📚 I’m currently learning PLC and control science    
+📚 I’m currently learning PLC and Control Science    
 😜 Reach me by email -> zkh20020429@gmail.com  
 
 
