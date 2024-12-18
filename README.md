@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Khan-Chou
 👋 Hi, I'm Khan Chou @khansakura  
 🏫 I'm studying at Zhejiang University  
-⭐️ I’m interested in CV, SLAM, robotics, machine learning and ...  
+⭐️ I’m interested in CV, robotics, reinforcement learning and path planning
 📚 I’m currently learning Robotics and Control Science  
 ❤️ I’m looking to collaborate on anything interesting~  
 😜 Reach me by email -> KhanKuan-Chou@protonmail.com
