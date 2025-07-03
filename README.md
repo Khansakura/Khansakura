@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Khan-Chou
+# Khan-Zhou
 👋 Hi, I'm Khan Chou @khansakura  
 🏫 I'm studying at Zhejiang University  
 ⭐️ I’m interested in CV, robotics, reinforcement learning and path planning
